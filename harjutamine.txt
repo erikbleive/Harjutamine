@@ -1,0 +1,1 @@
+GitHub on veebipõhine platvorm, mida kasutatakse versioonihalduseks. Git lihtsustab koostööprotsessi teiste inimestega ja teeb projektidel koostöötamise lihtsaks.
